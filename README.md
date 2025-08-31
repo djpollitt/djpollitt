@@ -1,5 +1,5 @@
 # Donald (D.J.) Pollitt
-**UX Professional | Accessibility Advocate | Leadership & Management Professional**
+**UX Professional  |  Accessibility Advocate  |  Leadership & Management Professional**
 
 
 ## About Me
