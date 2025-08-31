@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-I’m D.J. Pollitt, a UX researcher with a background in psychology and project management. I focus on user-centered design, accessibility, and usability testing. I help teams create intuitive, inclusive digital experiences by turning research into actionable insights.
+I’m D.J. Pollitt, a UX researcher with a background in psychology, design, and project management. I focus on user-centered design, accessibility, and usability testing. I help teams create intuitive, inclusive digital experiences by turning research into actionable insights.
 
 ---
 
@@ -13,7 +13,6 @@ I’m D.J. Pollitt, a UX researcher with a background in psychology and project 
 - Analyze data and share findings through journey maps, affinity diagrams, and reports  
 - Prioritize accessibility and user empathy in all research  
 - Collaborate with designers, developers, and stakeholders to drive product decisions
-
 
 ---
 
