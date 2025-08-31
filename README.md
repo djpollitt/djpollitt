@@ -1,28 +1,28 @@
-# Donald (D.J.) Pollitt  
-**UX Researcher**
+# Donald (D.J.) Pollitt
+**UX Professional | Accessibility Advocate | Leadership & Management Professional**
 
----
 
 ## About Me
-I’m D.J. Pollitt, a UX researcher with a background in psychology, design, and project management. I focus on user-centered design, accessibility, and usability testing. I help teams create intuitive, inclusive digital experiences by turning research into actionable insights.
+I’m D.J. Pollitt, a UX professional with a background in psychology, design, and project management. I focus on user-centered design, accessibility, and usability testing. I help teams create intuitive, inclusive digital experiences by turning research into actionable insights.
 
----
 
 ## What I Do
 - Conduct usability tests, user interviews, and surveys  
 - Analyze data and share findings through journey maps, affinity diagrams, and reports  
-- Prioritize accessibility and user empathy in all research  
+- Prioritize accessibility and user empathy in research and design
+- Lead web accessibility compliance efforts, performing audits, managing complliance monitoring, and delivering role-specific training at Octokata:  [octokata.com](https://www.octokata.com/)
 - Collaborate with designers, developers, and stakeholders to drive product decisions
 
----
 
 ## Contact
 - LinkedIn: [linkedin.com/in/djwpollitt](https://www.linkedin.com/in/djwpollitt/)  
 
----
 
 ## Want to Connect?
-Feel free to reach out—I’m always open to collaborating, sharing knowledge, or chatting about UX research.
+Feel free to reach out—I’m always open to collaborating, sharing knowledge, or chatting about UX, accessibility inclusion, and design.
+
+
+<img src="https://komarev.com/ghpvc/?username=djpollitt&color=brightgreen" alt="watching_count" />
 
 <!--
 **djpollitt/djpollitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
